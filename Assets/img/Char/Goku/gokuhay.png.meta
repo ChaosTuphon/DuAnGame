@@ -1,0 +1,7896 @@
+fileFormatVersion: 2
+guid: 4be2cca882e7e4144a6022d30c8f91a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -761211316552005008
+    second: gokuhay_0
+  - first:
+      213: -3680934485268540800
+    second: gokuhay_1
+  - first:
+      213: -4670470719278827081
+    second: gokuhay_2
+  - first:
+      213: 5234749740243241809
+    second: gokuhay_3
+  - first:
+      213: 4226635459251880263
+    second: gokuhay_4
+  - first:
+      213: 8122170964316779434
+    second: gokuhay_5
+  - first:
+      213: 2521738621521752629
+    second: gokuhay_6
+  - first:
+      213: 6712265181295562656
+    second: gokuhay_7
+  - first:
+      213: 7601079112144911067
+    second: gokuhay_8
+  - first:
+      213: -1217590500597196153
+    second: gokuhay_9
+  - first:
+      213: 7747187884884892833
+    second: gokuhay_10
+  - first:
+      213: 1163664672832997340
+    second: gokuhay_11
+  - first:
+      213: -4443458879091384117
+    second: gokuhay_12
+  - first:
+      213: -3163933277199435844
+    second: gokuhay_13
+  - first:
+      213: 4211858198182027737
+    second: gokuhay_14
+  - first:
+      213: 417885608825438064
+    second: gokuhay_15
+  - first:
+      213: 4961929086889160609
+    second: gokuhay_16
+  - first:
+      213: 3367627209187836
+    second: gokuhay_17
+  - first:
+      213: 7715742402573214339
+    second: gokuhay_18
+  - first:
+      213: -2329656712851272848
+    second: gokuhay_19
+  - first:
+      213: 1681716713193702233
+    second: gokuhay_20
+  - first:
+      213: 5766276607462601548
+    second: gokuhay_21
+  - first:
+      213: 3229810914853258160
+    second: gokuhay_22
+  - first:
+      213: -6972925108418052260
+    second: gokuhay_23
+  - first:
+      213: -6427626542600279654
+    second: gokuhay_24
+  - first:
+      213: 6546424391584689538
+    second: gokuhay_25
+  - first:
+      213: 6217282266882736850
+    second: gokuhay_26
+  - first:
+      213: 8633454404275554171
+    second: gokuhay_27
+  - first:
+      213: -8192251652795562047
+    second: gokuhay_28
+  - first:
+      213: -1655207463651419778
+    second: gokuhay_29
+  - first:
+      213: 2051081235312626569
+    second: gokuhay_30
+  - first:
+      213: -2474063695814690672
+    second: gokuhay_31
+  - first:
+      213: -2937936930386275137
+    second: gokuhay_32
+  - first:
+      213: 835050199327554477
+    second: gokuhay_33
+  - first:
+      213: 8551256823489480661
+    second: gokuhay_34
+  - first:
+      213: -3396090253668781573
+    second: gokuhay_35
+  - first:
+      213: -4736282421774558814
+    second: gokuhay_36
+  - first:
+      213: 3208387993272713748
+    second: gokuhay_37
+  - first:
+      213: -6894090344822552320
+    second: gokuhay_38
+  - first:
+      213: 7489709623931374867
+    second: gokuhay_39
+  - first:
+      213: -4271448839237552837
+    second: gokuhay_40
+  - first:
+      213: 7384653060867988726
+    second: gokuhay_41
+  - first:
+      213: 1717866796274962652
+    second: gokuhay_42
+  - first:
+      213: 3284152434318278365
+    second: gokuhay_43
+  - first:
+      213: 6372879439351052483
+    second: gokuhay_44
+  - first:
+      213: -5812926880420895850
+    second: gokuhay_45
+  - first:
+      213: -1419306395603201696
+    second: gokuhay_46
+  - first:
+      213: 7566417258014728568
+    second: gokuhay_47
+  - first:
+      213: 467210994686287363
+    second: gokuhay_48
+  - first:
+      213: 6427199080116473469
+    second: gokuhay_49
+  - first:
+      213: 8626407160801530819
+    second: gokuhay_50
+  - first:
+      213: 1905162020228687963
+    second: gokuhay_51
+  - first:
+      213: -1452121291941956583
+    second: gokuhay_52
+  - first:
+      213: 4210571203748808091
+    second: gokuhay_53
+  - first:
+      213: 280050472218117344
+    second: gokuhay_54
+  - first:
+      213: -200804376808111707
+    second: gokuhay_55
+  - first:
+      213: -5329137273526895044
+    second: gokuhay_56
+  - first:
+      213: -7489901923180654928
+    second: gokuhay_57
+  - first:
+      213: -5205015905341261557
+    second: gokuhay_58
+  - first:
+      213: 6302386382685726168
+    second: gokuhay_59
+  - first:
+      213: 1957316691654640380
+    second: gokuhay_60
+  - first:
+      213: -4245950652260194458
+    second: gokuhay_61
+  - first:
+      213: 5547011669687950979
+    second: gokuhay_62
+  - first:
+      213: 2714563448334407453
+    second: gokuhay_63
+  - first:
+      213: -9178960330722960253
+    second: gokuhay_64
+  - first:
+      213: 7376132045483772206
+    second: gokuhay_65
+  - first:
+      213: 7687211260142161209
+    second: gokuhay_66
+  - first:
+      213: 5388659683002819110
+    second: gokuhay_67
+  - first:
+      213: 5058435329628192401
+    second: gokuhay_68
+  - first:
+      213: 3305613530323373983
+    second: gokuhay_69
+  - first:
+      213: 2229536400147554633
+    second: gokuhay_70
+  - first:
+      213: 8553680390279005024
+    second: gokuhay_71
+  - first:
+      213: -2194174807211951317
+    second: gokuhay_72
+  - first:
+      213: -4969350569810892533
+    second: gokuhay_73
+  - first:
+      213: -7133596095470526987
+    second: gokuhay_74
+  - first:
+      213: 5427812463236904101
+    second: gokuhay_75
+  - first:
+      213: 5672845851677598942
+    second: gokuhay_76
+  - first:
+      213: 8621708916282892414
+    second: gokuhay_77
+  - first:
+      213: -6917894634981153510
+    second: gokuhay_78
+  - first:
+      213: -3510911680062042126
+    second: gokuhay_79
+  - first:
+      213: -5676831396197040006
+    second: gokuhay_80
+  - first:
+      213: 1912827889912942097
+    second: gokuhay_81
+  - first:
+      213: 8031755824271263162
+    second: gokuhay_82
+  - first:
+      213: -4934062589111463321
+    second: gokuhay_83
+  - first:
+      213: 142590154597649295
+    second: gokuhay_84
+  - first:
+      213: 6089950903501417904
+    second: gokuhay_85
+  - first:
+      213: -2685370421942225131
+    second: gokuhay_86
+  - first:
+      213: -8584166461172896665
+    second: gokuhay_87
+  - first:
+      213: 876974142598659674
+    second: gokuhay_88
+  - first:
+      213: 5113030759922446243
+    second: gokuhay_89
+  - first:
+      213: 9024805138040796749
+    second: gokuhay_90
+  - first:
+      213: -6160853783909694915
+    second: gokuhay_91
+  - first:
+      213: -1622289183816612716
+    second: gokuhay_92
+  - first:
+      213: -1185683843905735496
+    second: gokuhay_93
+  - first:
+      213: 3192206930161302615
+    second: gokuhay_94
+  - first:
+      213: 5567930867660703288
+    second: gokuhay_95
+  - first:
+      213: -6692142072407829570
+    second: gokuhay_96
+  - first:
+      213: 2502900669940664440
+    second: gokuhay_97
+  - first:
+      213: -8690728173452722000
+    second: gokuhay_98
+  - first:
+      213: 340807025456554034
+    second: gokuhay_99
+  - first:
+      213: 3686525951705560588
+    second: gokuhay_100
+  - first:
+      213: -7698638810838431343
+    second: gokuhay_101
+  - first:
+      213: -906908440388789127
+    second: gokuhay_102
+  - first:
+      213: 4005288465163568727
+    second: gokuhay_103
+  - first:
+      213: 1536727062632041892
+    second: gokuhay_104
+  - first:
+      213: -1694858125089159218
+    second: gokuhay_105
+  - first:
+      213: -5939055433668211626
+    second: gokuhay_106
+  - first:
+      213: -5288586268865685478
+    second: gokuhay_107
+  - first:
+      213: -8815905856864551792
+    second: gokuhay_108
+  - first:
+      213: -7869298507953730151
+    second: gokuhay_109
+  - first:
+      213: 5778030848472360367
+    second: gokuhay_110
+  - first:
+      213: -8845465383055031938
+    second: gokuhay_111
+  - first:
+      213: 7334946407561811260
+    second: gokuhay_112
+  - first:
+      213: -5392939295706652461
+    second: gokuhay_113
+  - first:
+      213: 6497684999227108887
+    second: gokuhay_114
+  - first:
+      213: -607854071493248260
+    second: gokuhay_115
+  - first:
+      213: -5516284365132464876
+    second: gokuhay_116
+  - first:
+      213: -5969386132186187489
+    second: gokuhay_117
+  - first:
+      213: -8319184148838951164
+    second: gokuhay_118
+  - first:
+      213: 1506951638850120012
+    second: gokuhay_119
+  - first:
+      213: -5236539063589375448
+    second: gokuhay_120
+  - first:
+      213: 5876684162874593168
+    second: gokuhay_121
+  - first:
+      213: -5124909390824920099
+    second: gokuhay_122
+  - first:
+      213: -8887941845741330240
+    second: gokuhay_123
+  - first:
+      213: -7340970017471911270
+    second: gokuhay_124
+  - first:
+      213: -8492398061209891119
+    second: gokuhay_125
+  - first:
+      213: -1610028321629342612
+    second: gokuhay_126
+  - first:
+      213: 640241330304766482
+    second: gokuhay_127
+  - first:
+      213: -7403323167892701947
+    second: gokuhay_128
+  - first:
+      213: -4171210782569275288
+    second: gokuhay_129
+  - first:
+      213: -1848184111187721205
+    second: gokuhay_130
+  - first:
+      213: -5360479016425680999
+    second: gokuhay_131
+  - first:
+      213: 2625506728385172293
+    second: gokuhay_132
+  - first:
+      213: 4514939299318041250
+    second: gokuhay_133
+  - first:
+      213: -4093615249592413290
+    second: gokuhay_134
+  - first:
+      213: 6388010534354269025
+    second: gokuhay_135
+  - first:
+      213: 8467613998506024621
+    second: gokuhay_136
+  - first:
+      213: -4581051459995415347
+    second: gokuhay_137
+  - first:
+      213: 1096915004787480365
+    second: gokuhay_138
+  - first:
+      213: 969754859229558749
+    second: gokuhay_139
+  - first:
+      213: 7135056128063698094
+    second: gokuhay_140
+  - first:
+      213: -221641614557107855
+    second: gokuhay_141
+  - first:
+      213: -2123631171318951548
+    second: gokuhay_142
+  - first:
+      213: -6302721170859132213
+    second: gokuhay_143
+  - first:
+      213: -431939561180706574
+    second: gokuhay_144
+  - first:
+      213: 8162166772679943572
+    second: gokuhay_145
+  - first:
+      213: 4043348245559321396
+    second: gokuhay_146
+  - first:
+      213: 4818968627373671189
+    second: gokuhay_147
+  - first:
+      213: 1019187353878750793
+    second: gokuhay_148
+  - first:
+      213: 872543255913628555
+    second: gokuhay_149
+  - first:
+      213: -9167955606548371034
+    second: gokuhay_150
+  - first:
+      213: 2284214247833734146
+    second: gokuhay_151
+  - first:
+      213: 2620787744493669086
+    second: gokuhay_152
+  - first:
+      213: 1233614028279495477
+    second: gokuhay_153
+  - first:
+      213: 2538836715545081034
+    second: gokuhay_154
+  - first:
+      213: -1745575303525797177
+    second: gokuhay_155
+  - first:
+      213: -4886566250627288809
+    second: gokuhay_156
+  - first:
+      213: -9212214351584734276
+    second: gokuhay_157
+  - first:
+      213: -1585131589756412692
+    second: gokuhay_158
+  - first:
+      213: -6305312598552536132
+    second: gokuhay_159
+  - first:
+      213: -5743076829945336051
+    second: gokuhay_160
+  - first:
+      213: 2320911591704106384
+    second: gokuhay_161
+  - first:
+      213: -3796995539234671715
+    second: gokuhay_162
+  - first:
+      213: -5558828388020334183
+    second: gokuhay_163
+  - first:
+      213: -8451929479473003791
+    second: gokuhay_164
+  - first:
+      213: -1646744379059161402
+    second: gokuhay_165
+  - first:
+      213: 2072685021933886031
+    second: gokuhay_166
+  - first:
+      213: -8023764346580752393
+    second: gokuhay_167
+  - first:
+      213: 5640186231045962917
+    second: gokuhay_168
+  - first:
+      213: 6319430206475995188
+    second: gokuhay_169
+  - first:
+      213: -4631165218431557513
+    second: gokuhay_170
+  - first:
+      213: -1778384679011370922
+    second: gokuhay_171
+  - first:
+      213: 1738894922073822701
+    second: gokuhay_172
+  - first:
+      213: 1157059705930330959
+    second: gokuhay_173
+  - first:
+      213: -1575500837294048117
+    second: gokuhay_174
+  - first:
+      213: 4833991728586276292
+    second: gokuhay_175
+  - first:
+      213: 623377932650060998
+    second: gokuhay_176
+  - first:
+      213: 8412448009621167394
+    second: gokuhay_177
+  - first:
+      213: 2725056928154415
+    second: gokuhay_178
+  - first:
+      213: 5748317698848144171
+    second: gokuhay_179
+  - first:
+      213: -6713243686287615626
+    second: gokuhay_180
+  - first:
+      213: -5617924597530382677
+    second: gokuhay_181
+  - first:
+      213: -7097803929853254560
+    second: gokuhay_182
+  - first:
+      213: 4653397512296234180
+    second: gokuhay_183
+  - first:
+      213: -7477144558275200059
+    second: gokuhay_184
+  - first:
+      213: 8084796760033524576
+    second: gokuhay_185
+  - first:
+      213: 7254824135029844761
+    second: gokuhay_186
+  - first:
+      213: -1818465970039865825
+    second: gokuhay_187
+  - first:
+      213: -3912218455938817142
+    second: gokuhay_188
+  - first:
+      213: -2087953156544673272
+    second: gokuhay_189
+  - first:
+      213: -4104849583493984379
+    second: gokuhay_190
+  - first:
+      213: 7325043249080960690
+    second: gokuhay_191
+  - first:
+      213: -1214946860522650866
+    second: gokuhay_192
+  - first:
+      213: 9033174259091455256
+    second: gokuhay_193
+  - first:
+      213: -1426519707474918262
+    second: gokuhay_194
+  - first:
+      213: -5039055639926084541
+    second: gokuhay_195
+  - first:
+      213: 8150529775101207916
+    second: gokuhay_196
+  - first:
+      213: -7317748015371712290
+    second: gokuhay_197
+  - first:
+      213: -4380108067858158565
+    second: gokuhay_198
+  - first:
+      213: 2638796886971601443
+    second: gokuhay_199
+  - first:
+      213: -7445963210810567032
+    second: gokuhay_200
+  - first:
+      213: -2579651418580511632
+    second: gokuhay_201
+  - first:
+      213: -4524190590532675869
+    second: gokuhay_202
+  - first:
+      213: 4562560388601124346
+    second: gokuhay_203
+  - first:
+      213: 4487065500909025445
+    second: gokuhay_204
+  - first:
+      213: -3609143216765720855
+    second: gokuhay_205
+  - first:
+      213: 8425188596828308130
+    second: gokuhay_206
+  - first:
+      213: -9024963005029908469
+    second: gokuhay_207
+  - first:
+      213: 5137818324323463650
+    second: gokuhay_208
+  - first:
+      213: 8500321871677426808
+    second: gokuhay_209
+  - first:
+      213: 1301362587855567372
+    second: gokuhay_210
+  - first:
+      213: 6136887886513034478
+    second: gokuhay_211
+  - first:
+      213: -5510302311612218101
+    second: gokuhay_212
+  - first:
+      213: -6145916008884806657
+    second: gokuhay_213
+  - first:
+      213: -3641446090171154764
+    second: gokuhay_214
+  - first:
+      213: 4812596204910748131
+    second: gokuhay_215
+  - first:
+      213: 7029270500519172945
+    second: gokuhay_216
+  - first:
+      213: -5950427047457231889
+    second: gokuhay_217
+  - first:
+      213: 5554737275588478391
+    second: gokuhay_218
+  - first:
+      213: 6094482566978604803
+    second: gokuhay_219
+  - first:
+      213: 7621917064912205362
+    second: gokuhay_220
+  - first:
+      213: 1250380458526571577
+    second: gokuhay_221
+  - first:
+      213: 1090847334885304636
+    second: gokuhay_222
+  - first:
+      213: 5564355108512063121
+    second: gokuhay_223
+  - first:
+      213: -7745444770726623857
+    second: gokuhay_224
+  - first:
+      213: 3234094184409333264
+    second: gokuhay_225
+  - first:
+      213: -8860315641451385147
+    second: gokuhay_226
+  - first:
+      213: 3639887266693223320
+    second: gokuhay_227
+  - first:
+      213: -2830159126177724116
+    second: gokuhay_228
+  - first:
+      213: 3501404007308013057
+    second: gokuhay_229
+  - first:
+      213: -5785893505864276056
+    second: gokuhay_230
+  - first:
+      213: 6373587270869171750
+    second: gokuhay_231
+  - first:
+      213: 8018705517798428374
+    second: gokuhay_232
+  - first:
+      213: 4045794104025940645
+    second: gokuhay_233
+  - first:
+      213: 6617866116896199324
+    second: gokuhay_234
+  - first:
+      213: 71255844180768094
+    second: gokuhay_235
+  - first:
+      213: 3637191782536983990
+    second: gokuhay_236
+  - first:
+      213: -2161180624855419712
+    second: gokuhay_237
+  - first:
+      213: -5571694897443470592
+    second: gokuhay_238
+  - first:
+      213: -5765369806205984501
+    second: gokuhay_239
+  - first:
+      213: -2119432080945501237
+    second: gokuhay_240
+  - first:
+      213: -7786112952329626228
+    second: gokuhay_241
+  - first:
+      213: 1254349303873037537
+    second: gokuhay_242
+  - first:
+      213: -9067697545372922197
+    second: gokuhay_243
+  - first:
+      213: -7993908018247308139
+    second: gokuhay_244
+  - first:
+      213: 2285623038981111276
+    second: gokuhay_245
+  - first:
+      213: -8630162523438974310
+    second: gokuhay_246
+  - first:
+      213: 1036765915532557065
+    second: gokuhay_247
+  - first:
+      213: -1401621374107000278
+    second: gokuhay_248
+  - first:
+      213: -2502354277834167821
+    second: gokuhay_249
+  - first:
+      213: -4223920256190244353
+    second: gokuhay_250
+  - first:
+      213: 7831477033169554348
+    second: gokuhay_251
+  - first:
+      213: -2144689787475632939
+    second: gokuhay_252
+  - first:
+      213: -6946710177581945036
+    second: gokuhay_253
+  - first:
+      213: 7890151452621244963
+    second: gokuhay_254
+  - first:
+      213: -4332723902301703496
+    second: gokuhay_255
+  - first:
+      213: -57639972229369273
+    second: gokuhay_256
+  - first:
+      213: -2008699024249203098
+    second: gokuhay_257
+  - first:
+      213: 4682336431593748583
+    second: gokuhay_258
+  - first:
+      213: 2141082169820114589
+    second: gokuhay_259
+  - first:
+      213: 8398538421681939843
+    second: gokuhay_260
+  - first:
+      213: 521201809601668013
+    second: gokuhay_261
+  - first:
+      213: -2327507340101614055
+    second: gokuhay_262
+  - first:
+      213: -1974742962211082152
+    second: gokuhay_263
+  - first:
+      213: 1108409268692246787
+    second: gokuhay_264
+  - first:
+      213: 1449171143025907959
+    second: gokuhay_265
+  - first:
+      213: 666160776003036472
+    second: gokuhay_266
+  - first:
+      213: 1147496018242194654
+    second: gokuhay_267
+  - first:
+      213: 5653875978288939125
+    second: gokuhay_268
+  - first:
+      213: 5065831142555229371
+    second: gokuhay_269
+  - first:
+      213: -1312512124237893539
+    second: gokuhay_270
+  - first:
+      213: 9034938809048636493
+    second: gokuhay_271
+  - first:
+      213: 8076589708332054579
+    second: gokuhay_272
+  - first:
+      213: -5778390162305594832
+    second: gokuhay_273
+  - first:
+      213: 6746813415249490975
+    second: gokuhay_274
+  - first:
+      213: 6852442529064306321
+    second: gokuhay_275
+  - first:
+      213: -4462449890144769763
+    second: gokuhay_276
+  - first:
+      213: -5512164005698161638
+    second: gokuhay_277
+  - first:
+      213: 3199874876815900089
+    second: gokuhay_278
+  - first:
+      213: 936180404608937546
+    second: gokuhay_279
+  - first:
+      213: -8070686962479413862
+    second: gokuhay_280
+  - first:
+      213: -5790742873527506636
+    second: gokuhay_281
+  - first:
+      213: 1663079095620666484
+    second: gokuhay_282
+  - first:
+      213: -8301438004999335340
+    second: gokuhay_283
+  - first:
+      213: -3245144235741864137
+    second: gokuhay_284
+  - first:
+      213: 6816346629656611054
+    second: gokuhay_285
+  - first:
+      213: 1716692558362760501
+    second: gokuhay_286
+  - first:
+      213: 301859591635883246
+    second: gokuhay_287
+  - first:
+      213: -7904301290557293775
+    second: gokuhay_288
+  - first:
+      213: 6430436568133798833
+    second: gokuhay_289
+  - first:
+      213: 4166056393287331402
+    second: gokuhay_290
+  - first:
+      213: -6541114899821301156
+    second: gokuhay_291
+  - first:
+      213: 5692920736243767826
+    second: gokuhay_292
+  - first:
+      213: 5335001854514091923
+    second: gokuhay_293
+  - first:
+      213: -6998141702510519328
+    second: gokuhay_294
+  - first:
+      213: -4469913057424067747
+    second: gokuhay_295
+  - first:
+      213: -7376800548967017590
+    second: gokuhay_296
+  - first:
+      213: 8923196013716990176
+    second: gokuhay_297
+  - first:
+      213: 1975818372958339442
+    second: gokuhay_298
+  - first:
+      213: -2734427298753740762
+    second: gokuhay_299
+  - first:
+      213: -4103261212243063973
+    second: gokuhay_300
+  - first:
+      213: -5854532925932336041
+    second: gokuhay_301
+  - first:
+      213: -8172973268130991506
+    second: gokuhay_302
+  - first:
+      213: -1328023478054027387
+    second: gokuhay_303
+  - first:
+      213: 6676551811385013511
+    second: gokuhay_304
+  - first:
+      213: -3352246418113496170
+    second: gokuhay_305
+  - first:
+      213: 7867154698773994882
+    second: gokuhay_306
+  - first:
+      213: 2144608669115938078
+    second: gokuhay_307
+  - first:
+      213: -4234323215972677079
+    second: gokuhay_308
+  - first:
+      213: -8364747448022763241
+    second: gokuhay_309
+  - first:
+      213: 2345317280554156505
+    second: gokuhay_310
+  - first:
+      213: 8913825845608403483
+    second: gokuhay_311
+  - first:
+      213: -6210024036925923494
+    second: gokuhay_312
+  - first:
+      213: 1200708772872811290
+    second: gokuhay_313
+  - first:
+      213: -2474124844313944894
+    second: gokuhay_314
+  - first:
+      213: -4202688501129895693
+    second: gokuhay_315
+  - first:
+      213: 7356128196123540346
+    second: gokuhay_316
+  - first:
+      213: -1488321471556384375
+    second: gokuhay_317
+  - first:
+      213: -5914452752685143366
+    second: gokuhay_318
+  - first:
+      213: 6070166704695085335
+    second: gokuhay_319
+  - first:
+      213: -3207311765662107751
+    second: gokuhay_320
+  - first:
+      213: -1165095507847184289
+    second: gokuhay_321
+  - first:
+      213: 5636884815697860357
+    second: gokuhay_322
+  - first:
+      213: 5625243663448185729
+    second: gokuhay_323
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gokuhay_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 997
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a09e53752af65f0800000000000000
+      internalID: -761211316552005008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 997
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082551c8691baecc0800000000000000
+      internalID: -3680934485268540800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 997
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9b58340a72f2fb0800000000000000
+      internalID: -4670470719278827081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1017
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b4443672195a840800000000000000
+      internalID: 5234749740243241809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1017
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74147c77e8608aa30800000000000000
+      internalID: 4226635459251880263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1017
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f71d757fb7b070800000000000000
+      internalID: 8122170964316779434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1017
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ff206ae30ff220800000000000000
+      internalID: 2521738621521752629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 997
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af48598e91c62d50800000000000000
+      internalID: 6712265181295562656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 997
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaf9052e257c7960800000000000000
+      internalID: 7601079112144911067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 997
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a930a04ef3a1fe0800000000000000
+      internalID: -1217590500597196153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 997
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac16ceb55a838b60800000000000000
+      internalID: 7747187884884892833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 968
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7c1e5cada262010800000000000000
+      internalID: 1163664672832997340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 968
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0e3b121b9a552c0800000000000000
+      internalID: -4443458879091384117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 968
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb77d7792737714d0800000000000000
+      internalID: -3163933277199435844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 968
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e4f247b6837a30800000000000000
+      internalID: 4211858198182027737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 968
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fb9c64fb0acc500800000000000000
+      internalID: 417885608825438064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 968
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afe4b017305cd440800000000000000
+      internalID: 4961929086889160609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 968
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf12a8fc6d6fb0000800000000000000
+      internalID: 3367627209187836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 968
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382abcbd5d2d31b60800000000000000
+      internalID: 7715742402573214339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 968
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b45ed00956bafd0800000000000000
+      internalID: -2329656712851272848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 968
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9538fb6c078a65710800000000000000
+      internalID: 1681716713193702233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 968
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43f370060ee50050800000000000000
+      internalID: 5766276607462601548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 968
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3028f2ae792dc20800000000000000
+      internalID: 3229810914853258160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 968
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ff65bde813b3f90800000000000000
+      internalID: -6972925108418052260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_24
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 968
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99207be6bb7cc6a0800000000000000
+      internalID: -6427626542600279654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 901
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dab59bc4299da50800000000000000
+      internalID: 6546424391584689538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 901
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d281e9f749384650800000000000000
+      internalID: 6217282266882736850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 901
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b774067e90130d770800000000000000
+      internalID: 8633454404275554171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 901
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c78384b6864f4e80800000000000000
+      internalID: -8192251652795562047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 901
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795b7bd4958709e0800000000000000
+      internalID: -1655207463651419778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 901
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b47443487e67c10800000000000000
+      internalID: 2051081235312626569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 901
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09876434d2c5aadd0800000000000000
+      internalID: -2474063695814690672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 848
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb413db7de95a37d0800000000000000
+      internalID: -2937936930386275137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 848
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabb9846bb1b69b00800000000000000
+      internalID: 835050199327554477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 848
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7c93346ca2ca670800000000000000
+      internalID: 8551256823489480661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 848
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1f7e458e9aed0d0800000000000000
+      internalID: -3396090253668781573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 848
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a953363b38554eb0800000000000000
+      internalID: -4736282421774558814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 848
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41206a091eb768c20800000000000000
+      internalID: 3208387993272713748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 848
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c66b9b554350a0800000000000000
+      internalID: -6894090344822552320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 848
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d0145883bc0f760800000000000000
+      internalID: 7489709623931374867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_40
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 848
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bdfc69e3c8b4c0800000000000000
+      internalID: -4271448839237552837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 848
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc998255de8b7660800000000000000
+      internalID: 7384653060867988726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 848
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd05863efb617d710800000000000000
+      internalID: 1717866796274962652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 791
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde76c32d37a39d20800000000000000
+      internalID: 3284152434318278365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 791
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8f8eac514017850800000000000000
+      internalID: 6372879439351052483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_45
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 791
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693613becc5545fa0800000000000000
+      internalID: -5812926880420895850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 791
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06191ae5a5c9d4ce0800000000000000
+      internalID: -1419306395603201696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 791
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8716a565860510960800000000000000
+      internalID: 7566417258014728568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_48
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 791
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ede6d9ceddb7600800000000000000
+      internalID: 467210994686287363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_49
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 791
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e4f07b28ff13950800000000000000
+      internalID: 6427199080116473469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_50
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 832
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3167bab9727b770800000000000000
+      internalID: 8626407160801530819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_51
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 830
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58eb4f63ce707a10800000000000000
+      internalID: 1905162020228687963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_52
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 791
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b40fe06709dbe0800000000000000
+      internalID: -1452121291941956583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_53
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 832
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95cfe48334fe6a30800000000000000
+      internalID: 4210571203748808091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_54
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 791
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4cdb3bb60f2e300800000000000000
+      internalID: 280050472218117344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_55
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 791
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a14203bb79963df0800000000000000
+      internalID: -200804376808111707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_56
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 791
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb22c72e91b06b0800000000000000
+      internalID: -5329137273526895044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 738
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be4d4252e58e0890800000000000000
+      internalID: -7489901923180654928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_58
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 755
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0930e78c9114c7b0800000000000000
+      internalID: -5205015905341261557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_59
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 755
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5ed390603967750800000000000000
+      internalID: 6302386382685726168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 738
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf284072929c92b10800000000000000
+      internalID: 1957316691654640380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 738
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6676136b06a5315c0800000000000000
+      internalID: -4245950652260194458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_62
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 740
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e52b869b1fafc40800000000000000
+      internalID: 5547011669687950979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 743
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d175b3ae2111ca520800000000000000
+      internalID: 2714563448334407453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_64
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 678
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c1bdf1638cd9080800000000000000
+      internalID: -9178960330722960253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 694
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e298f63d3094d5660800000000000000
+      internalID: 7376132045483772206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_66
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 694
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d082a99e57eaa60800000000000000
+      internalID: 7687211260142161209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 678
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6222adc6e6d58ca40800000000000000
+      internalID: 5388659683002819110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_68
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 678
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e36cda12c233640800000000000000
+      internalID: 5058435329628192401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_69
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 669
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f46afedf5efdd20800000000000000
+      internalID: 3305613530323373983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_70
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 672
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94129981b87e0fe10800000000000000
+      internalID: 2229536400147554633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 655
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0630ec0eef6c4b670800000000000000
+      internalID: 8553680390279005024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 607
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b350953a9bc81e0800000000000000
+      internalID: -2194174807211951317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 607
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09690a4cf1590bb0800000000000000
+      internalID: -4969350569810892533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 607
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd9d568520600d90800000000000000
+      internalID: -7133596095470526987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_75
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 607
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a47ca27da6735b40800000000000000
+      internalID: 5427812463236904101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_76
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 618
+        width: 110
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4aacefe3ff9be40800000000000000
+      internalID: 5672845851677598942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_77
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 617
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e702cdf549676a770800000000000000
+      internalID: 8621708916282892414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 543
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152e586b73beff90800000000000000
+      internalID: -6917894634981153510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 543
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffc128bd6cb64fc0800000000000000
+      internalID: -3510911680062042126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_80
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 541
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7004eb1ce7d731b0800000000000000
+      internalID: -5676831396197040006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_81
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 540
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e88bec4dabb8a10800000000000000
+      internalID: 1912827889912942097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_82
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 543
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab50d5c3e57867f60800000000000000
+      internalID: 8031755824271263162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_83
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 541
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762977c8730b68bb0800000000000000
+      internalID: -4934062589111463321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_84
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 514
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bc2497df49af100800000000000000
+      internalID: 142590154597649295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_85
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 514
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd65cea41ad38450800000000000000
+      internalID: 6089950903501417904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_86
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 514
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517fac534d5abbad0800000000000000
+      internalID: -2685370421942225131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_87
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 514
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca7fc951aeed880800000000000000
+      internalID: -8584166461172896665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_88
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 514
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ebbc61653ab2c00800000000000000
+      internalID: 876974142598659674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 514
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afa2dad26225f640800000000000000
+      internalID: 5113030759922446243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_90
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 514
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46ba04257c8e3d70800000000000000
+      internalID: 9024805138040796749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_91
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 514
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3201f80020408aa0800000000000000
+      internalID: -6160853783909694915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_92
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 514
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49407a325987c79e0800000000000000
+      internalID: -1622289183816612716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_93
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 514
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4341473da9b8fe0800000000000000
+      internalID: -1185683843905735496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_94
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 514
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cfdc93a4ffc4c20800000000000000
+      internalID: 3192206930161302615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 514
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83649dcbf93454d40800000000000000
+      internalID: 5567930867660703288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_96
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 514
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35fabdd3cb023a0800000000000000
+      internalID: -6692142072407829570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 514
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87886ebf5e61cb220800000000000000
+      internalID: 2502900669940664440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_98
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 514
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b00fdd85c4546780800000000000000
+      internalID: -8690728173452722000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 447
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230ab491f2acab400800000000000000
+      internalID: 340807025456554034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 447
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c063bae22db292330800000000000000
+      internalID: 3686525951705560588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_101
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 447
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19980f96ac0f82590800000000000000
+      internalID: -7698638810838431343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_102
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 447
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c92d614930a63f0800000000000000
+      internalID: -906908440388789127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_103
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 447
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7564b0d53a4a59730800000000000000
+      internalID: 4005288465163568727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_104
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 447
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad89ec1f1d835510800000000000000
+      internalID: 1536727062632041892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_105
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 447
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec74065d387aa78e0800000000000000
+      internalID: -1694858125089159218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_106
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 394
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c4adeac8c349da0800000000000000
+      internalID: -5939055433668211626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_107
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 394
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1890400fca2b96b0800000000000000
+      internalID: -5288586268865685478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_108
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 394
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c7d44f45c97a580800000000000000
+      internalID: -8815905856864551792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_109
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 394
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d08e943b2aac290800000000000000
+      internalID: -7869298507953730151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_110
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 394
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a1708170bf2050800000000000000
+      internalID: 5778030848472360367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 394
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e718df179189e3580800000000000000
+      internalID: -8845465383055031938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_112
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 394
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35df3d35e6fac560800000000000000
+      internalID: 7334946407561811260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_113
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 394
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0e828984e6825b0800000000000000
+      internalID: -5392939295706652461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_114
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 394
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee051a41a6c2a50800000000000000
+      internalID: 6497684999227108887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_115
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 394
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfabe5941f77097f0800000000000000
+      internalID: -607854071493248260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_116
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 394
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dfc30b8983273b0800000000000000
+      internalID: -5516284365132464876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_117
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 337
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1936ef90fa782da0800000000000000
+      internalID: -5969386132186187489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_118
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 337
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407d463f7125c8c80800000000000000
+      internalID: -8319184148838951164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_119
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 337
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49aa570884c9e410800000000000000
+      internalID: 1506951638850120012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_120
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 337
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8227c4e47731457b0800000000000000
+      internalID: -5236539063589375448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_121
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 337
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fcd413c1d2e8150800000000000000
+      internalID: 5876684162874593168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_122
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 337
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb21dddf0aa0e8b0800000000000000
+      internalID: -5124909390824920099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_123
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 337
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0224c4bffa7a480800000000000000
+      internalID: -8887941845741330240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_124
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 378
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a2bc9c9a2af1a90800000000000000
+      internalID: -7340970017471911270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_125
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 376
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de4e5e35f0f42a80800000000000000
+      internalID: -8492398061209891119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_126
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 337
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64f6f295c708a9e0800000000000000
+      internalID: -1610028321629342612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_127
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 378
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212d657091892e800800000000000000
+      internalID: 640241330304766482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_128
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 337
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df554adcc124990800000000000000
+      internalID: -7403323167892701947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_129
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 337
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860edada4e1ec16c0800000000000000
+      internalID: -4171210782569275288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_130
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 337
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04822dc75ee956e0800000000000000
+      internalID: -1848184111187721205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_131
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 284
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f03005cb0cb95b0800000000000000
+      internalID: -5360479016425680999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_132
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 301
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543dbcc757caf6420800000000000000
+      internalID: 2625506728385172293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_133
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 301
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa8d4e1f5948ae30800000000000000
+      internalID: 4514939299318041250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 284
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6931ce09e9e8037c0800000000000000
+      internalID: -4093615249592413290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_135
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 284
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163b3a16cb5c6a850800000000000000
+      internalID: 6388010534354269025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_136
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 286
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae931c7112038570800000000000000
+      internalID: 8467613998506024621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_137
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 289
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc4035f7f5dc60c0800000000000000
+      internalID: -4581051459995415347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_138
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 224
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2757299266093f00800000000000000
+      internalID: 1096915004787480365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_139
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 240
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7369f08e2457d00800000000000000
+      internalID: 969754859229558749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_140
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 240
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f5bdcebfc40360800000000000000
+      internalID: 7135056128063698094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17921e830229cecf0800000000000000
+      internalID: -221641614557107855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_142
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481569f73b85782e0800000000000000
+      internalID: -2123631171318951548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_143
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 215
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca7b940d7c3888a0800000000000000
+      internalID: -6302721170859132213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_144
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 218
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8c263f141710af0800000000000000
+      internalID: -431939561180706574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_145
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495a51b4f67d54170800000000000000
+      internalID: 8162166772679943572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_146
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 153
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43323c78ecbdc1830800000000000000
+      internalID: 4043348245559321396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_147
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 153
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5130c524f6a60e240800000000000000
+      internalID: 4818968627373671189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 153
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946638b9f71e42e00800000000000000
+      internalID: 1019187353878750793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_149
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 153
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8305e3e775eb1c00800000000000000
+      internalID: 872543255913628555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_150
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 164
+        width: 110
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9222323f0e4c080800000000000000
+      internalID: -9167955606548371034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_151
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 163
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c040191c823bf10800000000000000
+      internalID: 2284214247833734146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_152
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 89
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda0e3e6198ee5420800000000000000
+      internalID: 2620787744493669086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 89
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bb9893c6dae1110800000000000000
+      internalID: 1233614028279495477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_154
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 87
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4b8cc9a82cb3320800000000000000
+      internalID: 2538836715545081034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_155
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 86
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c276a8828876c7e0800000000000000
+      internalID: -1745575303525797177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_156
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 89
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b2fb92ed6f2cb0800000000000000
+      internalID: -4886566250627288809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_157
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 87
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3590b0bd3a72080800000000000000
+      internalID: -9212214351584734276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_158
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec915ea73b700ae0800000000000000
+      internalID: -1585131589756412692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb1b7d39970f78a0800000000000000
+      internalID: -6305312598552536132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_160
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 58
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fe4512d0e7c40b0800000000000000
+      internalID: -5743076829945336051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_161
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0951c92cbc8853020800000000000000
+      internalID: 2320911591704106384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_162
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93bc26acac5e4bc0800000000000000
+      internalID: -3796995539234671715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_163
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991d0b478031bd2b0800000000000000
+      internalID: -5558828388020334183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_164
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f20c5d2be6b4ba80800000000000000
+      internalID: -8451929479473003791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_165
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 58
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6be4a46b69529e0800000000000000
+      internalID: -1646744379059161402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_166
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 60
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a54afbb08a3cc10800000000000000
+      internalID: 2072685021933886031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_167
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f72c98a6dcd5a090800000000000000
+      internalID: -8023764346580752393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_168
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac3b808e77f54e40800000000000000
+      internalID: 5640186231045962917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_169
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43800ef7a4023b750800000000000000
+      internalID: 6319430206475995188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_170
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7702e3355cbcabfb0800000000000000
+      internalID: -4631165218431557513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_171
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 60
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b7858e88e157e0800000000000000
+      internalID: -1778384679011370922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_172
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d0f3f7bbc12810800000000000000
+      internalID: 1738894922073822701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_173
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 60
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4335e31ca3be0010800000000000000
+      internalID: 1157059705930330959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_174
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 60
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cf1c9f552b22ae0800000000000000
+      internalID: -1575500837294048117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_175
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 60
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdbf859dd9c51340800000000000000
+      internalID: 4833991728586276292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_176
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc9c6c4deea6a800800000000000000
+      internalID: 623377932650060998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_177
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 58
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d59e8c4e40fb470800000000000000
+      internalID: 8412448009621167394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_178
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f230232cc6ea90000800000000000000
+      internalID: 2725056928154415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_179
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b3fefbd7026cf40800000000000000
+      internalID: 5748317698848144171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_180
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67951348f64c5d2a0800000000000000
+      internalID: -6713243686287615626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_181
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baea545f75f1902b0800000000000000
+      internalID: -5617924597530382677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_182
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 60
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a9bb7ee88f7d90800000000000000
+      internalID: -7097803929853254560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_183
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc7a17f160349040800000000000000
+      internalID: 4653397512296234180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_184
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 60
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf2cdc3a8db3890800000000000000
+      internalID: -7477144558275200059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_185
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 60
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bf60371d7f23070800000000000000
+      internalID: 8084796760033524576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_186
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6264fc105ea460800000000000000
+      internalID: 7254824135029844761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_187
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 58
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e33abb5d283c6e0800000000000000
+      internalID: -1818465970039865825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_188
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a832a0aca0205b9c0800000000000000
+      internalID: -3912218455938817142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_189
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80acf74aaa91603e0800000000000000
+      internalID: -2087953156544673272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_190
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4e6f5d05a807c0800000000000000
+      internalID: -4104849583493984379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_191
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b608d97608c7a560800000000000000
+      internalID: 7325043249080960690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_192
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 58
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0342957444a32fe0800000000000000
+      internalID: -1214946860522650866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_193
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d395bf0284c5d70800000000000000
+      internalID: 9033174259091455256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_194
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a840dd252ebf33ce0800000000000000
+      internalID: -1426519707474918262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_195
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 58
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce6c2f79da11ab0800000000000000
+      internalID: -5039055639926084541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_196
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65e628a5af7c1170800000000000000
+      internalID: 8150529775101207916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_197
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 60
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed803fb73f2227a90800000000000000
+      internalID: -7317748015371712290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_198
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 60
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ced794beab633c0800000000000000
+      internalID: -4380108067858158565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_199
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322595aa9c3ee9420800000000000000
+      internalID: 2638796886971601443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_200
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 60
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886520109ef9aa890800000000000000
+      internalID: -7445963210810567032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_201
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 60
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0741d2fc3bc333cd0800000000000000
+      internalID: -2579651418580511632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_202
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 60
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6922bc0a8d631c0800000000000000
+      internalID: -4524190590532675869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_203
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 60
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af596dcff78715f30800000000000000
+      internalID: 4562560388601124346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_204
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8b791bc42454e30800000000000000
+      internalID: 4487065500909025445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_205
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 58
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e62b2dcd5fb9edc0800000000000000
+      internalID: -3609143216765720855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_206
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a28f97e3684ce470800000000000000
+      internalID: 8425188596828308130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_207
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 60
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00862696f3e0c280800000000000000
+      internalID: -9024963005029908469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_208
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1facd6b823d4740800000000000000
+      internalID: 5137818324323463650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_209
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 58
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c01d5a4b537f570800000000000000
+      internalID: 8500321871677426808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_210
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a3d15f06e5f0210800000000000000
+      internalID: 1301362587855567372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_211
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 44
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d106a40b9a2550800000000000000
+      internalID: 6136887886513034478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_212
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05075f0e397783b0800000000000000
+      internalID: -5510302311612218101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_213
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd80fc3f155baa0800000000000000
+      internalID: -6145916008884806657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_214
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 46
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4befc9ef21cf67dc0800000000000000
+      internalID: -3641446090171154764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_215
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 46
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1291900c6c9c240800000000000000
+      internalID: 4812596204910748131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_216
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 46
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd39d074cfc8160800000000000000
+      internalID: 7029270500519172945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_217
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb6f668026db6da0800000000000000
+      internalID: -5950427047457231889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_218
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b582143f14661d40800000000000000
+      internalID: 5554737275588478391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_219
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 46
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f029eca93f39450800000000000000
+      internalID: 6094482566978604803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_220
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2367499103d76c960800000000000000
+      internalID: 7621917064912205362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_221
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 46
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cf098f66e3a5110800000000000000
+      internalID: 1250380458526571577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_222
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39250c1fd7732f00800000000000000
+      internalID: 1090847334885304636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_223
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 44
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eddfe6d7f883d40800000000000000
+      internalID: 5564355108512063121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_224
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85ce65a407a28490800000000000000
+      internalID: -7745444770726623857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_225
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 44
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01effd7968fc1ec20800000000000000
+      internalID: 3234094184409333264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_226
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cee3793ed5d90580800000000000000
+      internalID: -8860315641451385147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_227
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89397b12f2a738230800000000000000
+      internalID: 3639887266693223320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_228
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 46
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29c852054149b8d0800000000000000
+      internalID: -2830159126177724116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_229
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e29b6b46c779030800000000000000
+      internalID: 3501404007308013057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_230
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a768bae28064bfa0800000000000000
+      internalID: -5785893505864276056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_231
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ebb19aad7837850800000000000000
+      internalID: 6373587270869171750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_232
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de07dafe2a284f60800000000000000
+      internalID: 8018705517798428374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_233
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 44
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a206d45d4c852830800000000000000
+      internalID: 4045794104025940645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_234
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9211bc9b2267db50800000000000000
+      internalID: 6617866116896199324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_235
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55b09010d62df000800000000000000
+      internalID: 71255844180768094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_236
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53612d7a6e97230800000000000000
+      internalID: 3637191782536983990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_237
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c439001ca1f102e0800000000000000
+      internalID: -2161180624855419712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_238
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 44
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0038609c20d5da2b0800000000000000
+      internalID: -5571694897443470592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_239
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01645e15ba4dffa0800000000000000
+      internalID: -5765369806205984501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_240
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 46
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb2da960c34692e0800000000000000
+      internalID: -2119432080945501237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_241
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 44
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d135fb58b22f390800000000000000
+      internalID: -7786112952329626228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_242
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 46
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e46c99cb08586110800000000000000
+      internalID: 1254349303873037537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_243
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae8d5d0021192280800000000000000
+      internalID: -9067697545372922197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_244
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce83dc20fef0190800000000000000
+      internalID: -7993908018247308139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_245
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedfae05b0a28bf10800000000000000
+      internalID: 2285623038981111276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_246
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 46
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9af784d8e08b3880800000000000000
+      internalID: -8630162523438974310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_247
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bfc8e6b15536e00800000000000000
+      internalID: 1036765915532557065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_248
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 32
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22e1ce49c07c8ce0800000000000000
+      internalID: -1401621374107000278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_249
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9e387da0ad54dd0800000000000000
+      internalID: -2502354277834167821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_250
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9143208ee9165c0800000000000000
+      internalID: -4223920256190244353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_251
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 32
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab83b46edefeac60800000000000000
+      internalID: 7831477033169554348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_252
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc5b1850088c32e0800000000000000
+      internalID: -2144689787475632939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_253
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f23a316e3589f90800000000000000
+      internalID: -6946710177581945036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_254
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a858d31f27f7d60800000000000000
+      internalID: 7890151452621244963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_255
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2767d01921fd3c0800000000000000
+      internalID: -4332723902301703496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_256
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 32
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742b76a20c8333ff0800000000000000
+      internalID: -57639972229369273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_257
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666d3f641eaaf14e0800000000000000
+      internalID: -2008699024249203098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_258
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768f30c2d200bf040800000000000000
+      internalID: 4682336431593748583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_259
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eec07b3e6a6bd10800000000000000
+      internalID: 2141082169820114589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_260
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38562d8723a9d8470800000000000000
+      internalID: 8398538421681939843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_261
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3299dc84eab3700800000000000000
+      internalID: 521201809601668013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_262
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 32
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9160125e76803bfd0800000000000000
+      internalID: -2327507340101614055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_263
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850b4be0dbd4894e0800000000000000
+      internalID: -1974742962211082152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_264
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 32
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301e6267b5cd16f00800000000000000
+      internalID: 1108409268692246787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_265
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f85ecef97d7c1410800000000000000
+      internalID: 1449171143025907959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_266
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835a5f042bdae3900800000000000000
+      internalID: 666160776003036472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_267
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc40848c89bcef00800000000000000
+      internalID: 1147496018242194654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_268
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 32
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570c60a2f3a967e40800000000000000
+      internalID: 5653875978288939125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_269
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc9d1095927d4640800000000000000
+      internalID: 5065831142555229371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_270
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 32
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50386f4d2509cde0800000000000000
+      internalID: -1312512124237893539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_271
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c1cb84afc826d70800000000000000
+      internalID: 9034938809048636493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_272
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33835b15c8fc51070800000000000000
+      internalID: 8076589708332054579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_273
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ac92a33c80fcfa0800000000000000
+      internalID: -5778390162305594832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_274
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1439c51e0f71ad50800000000000000
+      internalID: 6746813415249490975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_275
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19648a4ac24c81f50800000000000000
+      internalID: 6852442529064306321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_276
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19a0fdc7713212c0800000000000000
+      internalID: -4462449890144769763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_277
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14baa0aa0cd083b0800000000000000
+      internalID: -5512164005698161638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_278
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdfe4e2f3d386c20800000000000000
+      internalID: 3199874876815900089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_279
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ea56e2e1bfdfc00800000000000000
+      internalID: 936180404608937546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_280
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95c90cc7f82fff80800000000000000
+      internalID: -8070686962479413862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_281
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439a4c5890623afa0800000000000000
+      internalID: -5790742873527506636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_282
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47409d740a1741710800000000000000
+      internalID: 1663079095620666484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_283
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452561b0e1e5bcc80800000000000000
+      internalID: -8301438004999335340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_284
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f13b7d28ee6f2d0800000000000000
+      internalID: -3245144235741864137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_285
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee80d962527889e50800000000000000
+      internalID: 6816346629656611054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_286
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535d4c159cae2d710800000000000000
+      internalID: 1716692558362760501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_287
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4508303bb603400800000000000000
+      internalID: 301859591635883246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_288
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bbba2ead74e4290800000000000000
+      internalID: -7904301290557293775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_289
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 18
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb0c422dff7d3950800000000000000
+      internalID: 6430436568133798833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_290
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ee22c873ec0d930800000000000000
+      internalID: 4166056393287331402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_291
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52f229a7aa4935a0800000000000000
+      internalID: -6541114899821301156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_292
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 18
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ad34a4f31510f40800000000000000
+      internalID: 5692920736243767826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_293
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 18
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397dc5eabebb90a40800000000000000
+      internalID: 5335001854514091923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_294
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 18
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb5306033b91ee90800000000000000
+      internalID: -6998141702510519328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_295
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53bb53c1cda7f1c0800000000000000
+      internalID: -4469913057424067747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_296
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a831ae31cf650a990800000000000000
+      internalID: -7376800548967017590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_297
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 18
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e868c25f7f85db70800000000000000
+      internalID: 8923196013716990176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_298
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 18
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2714fd487548b6b10800000000000000
+      internalID: 1975818372958339442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_299
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 18
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62007a10cdc5d0ad0800000000000000
+      internalID: -2734427298753740762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_300
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 18
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b0d9fdaa94e07c0800000000000000
+      internalID: -4103261212243063973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_301
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c89ff825580cea0800000000000000
+      internalID: -5854532925932336041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_302
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62f94a6d14c39e80800000000000000
+      internalID: -8172973268130991506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_303
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ff531dea9e19de0800000000000000
+      internalID: -1328023478054027387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_304
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7053812af70e7ac50800000000000000
+      internalID: 6676551811385013511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_305
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 18
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf4c8c4ad6a71d0800000000000000
+      internalID: -3352246418113496170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_306
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d187d348fbd2d60800000000000000
+      internalID: 7867154698773994882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_307
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f0e0d83e23cd10800000000000000
+      internalID: 2144608669115938078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_308
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a42cf2879ac35c0800000000000000
+      internalID: -4234323215972677079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_309
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 18
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7197fbca3827aeb80800000000000000
+      internalID: -8364747448022763241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_310
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1040104ad3c8020800000000000000
+      internalID: 2345317280554156505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_311
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 16
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b125f2d016544bb70800000000000000
+      internalID: 8913825845608403483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_312
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f94606a0091d9a0800000000000000
+      internalID: -6210024036925923494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_313
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1377cd6446c9a010800000000000000
+      internalID: 1200708772872811290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_314
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd2b400942aadd0800000000000000
+      internalID: -2474124844313944894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_315
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 18
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0a884331d0da5c0800000000000000
+      internalID: -4202688501129895693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_316
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bbd24be97361660800000000000000
+      internalID: 7356128196123540346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_317
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898b40d18b685be0800000000000000
+      internalID: -1488321471556384375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_318
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaee5bbe84abeda0800000000000000
+      internalID: -5914452752685143366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_319
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 4
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71901c0f4709d3450800000000000000
+      internalID: 6070166704695085335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_320
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99777c331f65d73d0800000000000000
+      internalID: -3207311765662107751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_321
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508d5dfecfb4dfe0800000000000000
+      internalID: -1165095507847184289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_322
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507d677dfdc3a3e40800000000000000
+      internalID: 5636884815697860357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuhay_323
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 4
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b98dede41e01e40800000000000000
+      internalID: 5625243663448185729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
