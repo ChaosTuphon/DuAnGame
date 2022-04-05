@@ -7,38 +7,43 @@ using UnityEngine.UI;
 public class MauPlayer : MonoBehaviour
 {
     public int maxHealth = 100;
-    public int currenHeath;
+    public float currenHeath;
 
-    public ThanhMau heathBar;
+    public Slider PlayerHealthSlider;
     // Start is called before the first frame update
     void Start()
     {
         currenHeath = maxHealth;
-        heathBar.ThanhMauFull(maxHealth);//update dame
+        PlayerHealthSlider.maxValue = maxHealth;
+        PlayerHealthSlider.value = maxHealth;//update dame
     }
 
     // Update is called once per frame
-    private void OnCollisionEnter2D(Collision2D other)
+    public void addDame(float dame)
     {
-        if(other.gameObject.tag == "Enemy")
-        {
-            Takedame(50);
+        if (dame <= 0)
+            return;
+        currenHeath -= dame;
+        PlayerHealthSlider.value = currenHeath;
+        if (currenHeath <= 0)
+            chet();
 
-            if(currenHeath <= 0)
-            {
-                chet();
-            }
-        }
+    }
+
+    // hoi mau khi an Health
+
+    public void addHealth(float Soluongmau)
+    {
+        currenHeath += Soluongmau;
+        if (currenHeath > maxHealth) 
+            currenHeath = maxHealth;
+        PlayerHealthSlider.value = currenHeath;
     }
     void chet()
     {
         SceneManager.LoadScene("GameOver");
     }
-    void Takedame(int dame)
-    {
-        currenHeath -= dame;
-        heathBar.SetHeath(currenHeath);
-    }
+    
 
 
 }
