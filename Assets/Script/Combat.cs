@@ -59,7 +59,7 @@ public class Combat : MonoBehaviour
         //Gây dame lên quái
         foreach (Collider2D enemy in hitEnemy)
         {
-            enemy.GetComponent<Dich>().TakeDame(20);
+            //enemy.GetComponent<Dich>().TakeDame(20);
         }
 
     }

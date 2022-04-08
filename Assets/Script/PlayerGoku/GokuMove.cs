@@ -77,7 +77,7 @@ public class GokuMove : MonoBehaviour
             {
                 grounded = false;
                 body.velocity = new Vector2(body.velocity.x, jump);
-                anim.SetBool("Nhay", true);
+               // anim.SetBool("Nhay", true);
             }
         }
         
@@ -96,7 +96,7 @@ public class GokuMove : MonoBehaviour
         if (other.gameObject.tag == "grounded")
         {
 
-            anim.SetBool("Nhay", false);
+            //anim.SetBool("Nhay", false);
             grounded = true;
 
         }

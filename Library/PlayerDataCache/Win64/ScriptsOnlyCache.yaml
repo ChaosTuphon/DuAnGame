@@ -3,9 +3,14 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - CameraTheo
     - Dich
+    - EnemyDame
     - GamePlay
-    - PlayerMove2
+    - GokuCombat
+    - GokuMove
+    - HealthPickUp
+    - MauPlayer
     - coin
+    - dichmove
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
@@ -40,6 +45,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/GameOver.unity:
@@ -60,19 +66,19 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1516}
+      Script: {instanceID: 1454}
     - Class: 114
-      Script: {instanceID: 1744}
+      Script: {instanceID: 1746}
     - Class: 114
-      Script: {instanceID: 2682}
+      Script: {instanceID: 2686}
     - Class: 114
-      Script: {instanceID: 2856}
+      Script: {instanceID: 2860}
     - Class: 114
-      Script: {instanceID: 3092}
+      Script: {instanceID: 3096}
     - Class: 114
-      Script: {instanceID: 3340}
+      Script: {instanceID: 3344}
     - Class: 114
-      Script: {instanceID: 3460}
+      Script: {instanceID: 3464}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -104,6 +110,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 50
       Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
     - Class: 61
       Script: {instanceID: 0}
     - Class: 62
@@ -119,29 +127,41 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1516}
+      Script: {instanceID: 1454}
     - Class: 114
-      Script: {instanceID: 1744}
+      Script: {instanceID: 1668}
     - Class: 114
-      Script: {instanceID: 2248}
+      Script: {instanceID: 1720}
     - Class: 114
-      Script: {instanceID: 2254}
+      Script: {instanceID: 1746}
     - Class: 114
-      Script: {instanceID: 2682}
+      Script: {instanceID: 2250}
     - Class: 114
-      Script: {instanceID: 2856}
+      Script: {instanceID: 2256}
     - Class: 114
-      Script: {instanceID: 3092}
+      Script: {instanceID: 2664}
     - Class: 114
-      Script: {instanceID: 3340}
+      Script: {instanceID: 2686}
     - Class: 114
-      Script: {instanceID: 3460}
+      Script: {instanceID: 2860}
     - Class: 114
-      Script: {instanceID: 3882}
+      Script: {instanceID: 3096}
     - Class: 114
-      Script: {instanceID: 4606}
+      Script: {instanceID: 3344}
     - Class: 114
-      Script: {instanceID: 4922}
+      Script: {instanceID: 3464}
+    - Class: 114
+      Script: {instanceID: 3854}
+    - Class: 114
+      Script: {instanceID: 4146}
+    - Class: 114
+      Script: {instanceID: 4616}
+    - Class: 114
+      Script: {instanceID: 4932}
+    - Class: 114
+      Script: {instanceID: 5536}
+    - Class: 114
+      Script: {instanceID: 5836}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -163,22 +183,16 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
-      Hash: 5ab533713adae59372fb3e10a585c186
-    assemblyName: Unity.Timeline.dll
-    namespaceName: UnityEngine.Timeline
-    className: AnimationPlayableAsset
-  - hash:
-      serializedVersion: 2
       Hash: a6e561615949734e9f12f9b61661f43e
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Image
   - hash:
       serializedVersion: 2
-      Hash: 5c8ca88bf79ed16f4d5902c612fffeb1
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Playermove
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
   - hash:
       serializedVersion: 2
       Hash: 77aaaaa51f7a8d8ff333a879741e47d2
@@ -215,6 +229,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 17146de4667a7178d8e68114cff3d826
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HealthPickUp
   - hash:
       serializedVersion: 2
       Hash: 6bc76e17f0d5e93f3eea7f5a2fe227f3
@@ -299,6 +319,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: IKManager2D
+  - hash:
+      serializedVersion: 2
+      Hash: e655847bc48a75060fd3e87f3d6a2359
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EnemyDame
   - hash:
       serializedVersion: 2
       Hash: a1aa98c78061c6f03a8c124cda576e67
@@ -463,6 +489,12 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
+      Hash: 98c2e3a67af3fcdbefd52a86739f3da5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GokuMove
+  - hash:
+      serializedVersion: 2
       Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -517,6 +549,12 @@ ScriptsOnlyBuild:
     className: PositionAsUV1
   - hash:
       serializedVersion: 2
+      Hash: 09b4dd5a181d7079d083dbe149d9a67f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GokuCombat
+  - hash:
+      serializedVersion: 2
       Hash: 87ff43d2baf3385cba327d8f803a4ebb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -533,6 +571,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Trap
   - hash:
       serializedVersion: 2
       Hash: 87cef3c82381dc586f6772c3e27561b6
@@ -649,7 +693,7 @@ ScriptsOnlyBuild:
     className: SpriteSkinEntity
   - hash:
       serializedVersion: 2
-      Hash: 3fc4a3cc2e39e6c681048da2fe73a249
+      Hash: 8ef7f98fb904ef142dcacd23389519c3
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Dich
@@ -683,6 +727,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: a60a84895e65f3f4e230d3227de44374
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MauPlayer
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -719,8 +769,20 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: FabrikSolver2D
+  - hash:
+      serializedVersion: 2
+      Hash: 54f857df9bbff6709bdb7f8b70e9dbf4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: dichmove
+  - hash:
+      serializedVersion: 2
+      Hash: 90586f29a73386222fca81de3a813b65
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ThanhMau
   platform: 19
   scenePathNames:
   - Assets/Scenes/lv1.unity
   - Assets/Scenes/GameOver.unity
-  playerPath: C:/Users/Nitro 5/Downloads/hentaiz/DoAngame/Game/conmemay.exe
+  playerPath: C:/Users/Nitro 5/Downloads/hentaiz/DuAnGame/Game/conmemay.exe

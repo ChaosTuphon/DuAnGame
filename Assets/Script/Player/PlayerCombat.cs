@@ -8,9 +8,10 @@ public class PlayerCombat : MonoBehaviour
     public Transform attackPoint;
     public float attackRange = 0.5f;
     public LayerMask enemyLayer;
-    private int maxCombo = 3;
+    //private int maxCombo = 3;
     public bool attack;
-    public int combo;
+    public int attackDame;
+    //public int combo;
     // Start is called before the first frame update
     private void Start()
     {
@@ -21,14 +22,16 @@ public class PlayerCombat : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.J) && !attack)
         {
-            combo = maxCombo;
-            anim.SetTrigger("" + combo);
-            
-        }
-        if (attack) {
+
             Attack();
-           
+            //combo = maxCombo;
+            // anim.SetTrigger("Attack");
+
         }
+        //if (attack) {
+        //    Attack();
+           
+        //}
             
     }
     void Update()
@@ -39,13 +42,13 @@ public class PlayerCombat : MonoBehaviour
     }
     void Attack()
     {
-        
+        anim.SetTrigger("Attack");
         // t?m ?ánh c?a t?n công
         Collider2D[] hitEnemy = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
         //Gây dame lên quái
         foreach(Collider2D enemy in hitEnemy)
         {
-            Debug.Log("We hit" + enemy.name);
+            //enemy.GetComponent<Dich>().TakeDame(attackDame);
         }
 
     }
@@ -56,20 +59,20 @@ public class PlayerCombat : MonoBehaviour
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 
-    public void start_combo()
-    {
-        if (Input.GetKeyDown(KeyCode.J))
-        {
-            if (combo < 3)
-            {
-                combo++;
-            }
-        }
-    }
-    public void Finish()
-    {
-        attack = false;
-        combo = 0;
-    }
+//    public void start_combo()
+//    {
+//        if (Input.GetKeyDown(KeyCode.J))
+//        {
+//            if (combo < 3)
+//            {
+//                combo++;
+//            }
+//        }
+//    }
+//    public void Finish()
+//    {
+//        attack = false;
+//        combo = 0;
+//    }
     
 }

@@ -56,21 +56,34 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\ItemDrop\HealthPickUp.cs" />
     <Compile Include="Assets\Script\GamePlay.cs" />
+    <Compile Include="Assets\Script\Dich\tex1.cs" />
+    <Compile Include="Assets\img\Bandits - Pixel Art\Demo\Bandit.cs" />
     <Compile Include="Assets\Script\PlayerGoku\CameraTheo.cs" />
     <Compile Include="Assets\Script\Dich\EnemyDame.cs" />
     <Compile Include="Assets\Script\Player\PlayerCombat.cs" />
+    <Compile Include="Assets\Script\Dich\test.cs" />
+    <Compile Include="Assets\img\Bandits - Pixel Art\Demo\Sensor_Bandit.cs" />
+    <Compile Include="Assets\Script\Dich\EnemyHealth.cs" />
     <Compile Include="Assets\Script\PlayerGoku\GokuMove.cs" />
     <Compile Include="Assets\Script\Player\PlayerMove2.cs" />
     <Compile Include="Assets\Script\PlayerGoku\GokuCombat.cs" />
     <Compile Include="Assets\Script\Trap.cs" />
     <Compile Include="Assets\Script\Combat.cs" />
     <Compile Include="Assets\Script\coin.cs" />
-    <Compile Include="Assets\Script\Dich\Dich.cs" />
+    <Compile Include="Assets\Script\Dich\EnemyAI.cs" />
     <Compile Include="Assets\Script\MauPlayer.cs" />
     <Compile Include="Assets\Script\ThanhMau.cs" />
-    <Compile Include="Assets\Script\Dich\dichmove.cs" />
-    <Compile Include="Assets\Script\ItemDrop\HealthPickUp.cs" />
+    <Compile Include="Assets\Script\EnemyLight.cs" />
+    <Compile Include="Assets\Script\EnemyPatrol.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\img\Knight Files\Read Me.txt" />
+    <None Include="Assets\img\2D Zombie\Shader\Spine-Skeleton.shader" />
+    <None Include="Assets\img\2D Zombie\Spine2D Animations Exports\Zombie_Normal.atlas.txt" />
+    <None Include="Assets\img\2D Zombie\Unity Native Animations\Zombie_Normal.atlas.txt" />
+    <None Include="Assets\img\2D Zombie\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

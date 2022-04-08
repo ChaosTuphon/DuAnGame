@@ -14,8 +14,8 @@ public class GokuCombat : MonoBehaviour
     public int attackDame;
 
     public Animator animator;
+    private object x;
 
-    
     void Start()
     {
         animator = GetComponent<Animator>();   
@@ -62,7 +62,12 @@ public class GokuCombat : MonoBehaviour
         //Gây dame lên quái
         foreach (Collider2D enemy in hitEnemy)
         {
-            enemy.GetComponent<Dich>().TakeDame(attackDame);
+
+            //enemy.GetComponent<Dich>().TakeDame(attackDame);
+            //var Dich = enemy.GetComponent<Dich>();
+            //if (Dich == null)
+            //    continue;
+            //Dich.TakeDame(attackDame);
         }
 
     }
