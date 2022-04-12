@@ -5147,6 +5147,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1921527404}
   m_CullTransparentMesh: 1
+--- !u!95 &1938195239 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 3475567131904207286, guid: 7e75e6b157be22643a72438bb0806f37, type: 3}
+  m_PrefabInstance: {fileID: 3475567130635351774}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1954295337 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4682130401560591676, guid: db0d501469885614b8c4c39e37eda340, type: 3}
@@ -5617,9 +5622,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3475567130554310089, guid: 7e75e6b157be22643a72438bb0806f37, type: 3}
+      propertyPath: anim
+      value: 
+      objectReference: {fileID: 1938195239}
     - target: {fileID: 3475567130554310091, guid: 7e75e6b157be22643a72438bb0806f37, type: 3}
       propertyPath: m_Name
       value: EnemyPatrol
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475567131904239220, guid: 7e75e6b157be22643a72438bb0806f37, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475567132178751250, guid: 7e75e6b157be22643a72438bb0806f37, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.22
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7e75e6b157be22643a72438bb0806f37, type: 3}

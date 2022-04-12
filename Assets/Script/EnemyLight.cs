@@ -4,22 +4,32 @@ using UnityEngine;
 
 public class EnemyLight : MonoBehaviour
 {
+    [Header ("Attack Paramenters")]
    [SerializeField] private float attackCoolDown;
     [SerializeField] private float range;
-    [SerializeField] private float coliderDistance;
     [SerializeField] private int dame;
+
+    [Header("Collider Paramenters")]
+    [SerializeField] private float coliderDistance;
     [SerializeField] private BoxCollider2D boxCollider;
+
+    [Header("Player Layer")]
     [SerializeField] private LayerMask PlayerMask;
     private float coolDownTimer = Mathf.Infinity;
     
     private Animator animator;
-
     private MauPlayer playerHealth;
 
+    private EnemyPatrol enemyPatrol;
     private void Awake()
     {
         animator = GetComponent<Animator>();
+        enemyPatrol = GetComponentInParent<EnemyPatrol>();
 
+    }
+    private void OnDisable()
+    {
+        animator.SetBool("Run",false);
     }
     void Update()
     {
@@ -34,6 +44,8 @@ public class EnemyLight : MonoBehaviour
                 animator.SetTrigger("attack");
             }
         }
+        if(enemyPatrol != null)
+            enemyPatrol.enabled = !PlayerInSight();
     }
     bool PlayerInSight()
     {
